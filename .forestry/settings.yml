@@ -17,6 +17,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - post
   - page
 upload_dir: docs/.vuepress/public/assets/img
 public_path: "/assets/img"
